@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems and Circuit design
 - 🌱 I’m currently learning Embedded systems for ARM, AVR and PIC microcontrollers
 - 💞️ I’m looking to collaborate on projects by growing my skills and contributing 
-- 📫 How to reach me ...
+
 
 
 <!---
